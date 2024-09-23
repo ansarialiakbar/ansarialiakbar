@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarialiakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ansarialiakbar" /> </p>
 
-- 🌱 I’m currently learning **React Native, Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS**
+- Building a **Frontend Project**
 
 - 💬 Ask me about **MERN**
 
